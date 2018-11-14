@@ -42,7 +42,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TP3/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="322">
@@ -58,11 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TP3/AfficheContenu.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="322">
-              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
               <folding>
                 <marker date="1542207954020" expanded="true" signature="6:39" ph="..." />
                 <marker date="1542207954020" expanded="true" signature="54:267" ph="{...}" />
@@ -74,6 +74,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/TP3/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
@@ -99,6 +102,7 @@
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -115,6 +119,18 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="TP" type="24d0babc:SolutionExplorerModelNode" />
               <item name="TP3" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="TP" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="TP3" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="References" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="TP" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="TP3" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Properties" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
@@ -171,12 +187,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542205666703</updated>
-      <workItem from="1542205667945" duration="1878000" />
+      <workItem from="1542205667945" duration="2147000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1878000" />
+    <option name="totallyTimeSpent" value="2147000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -189,9 +205,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21888413" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21888413" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -200,9 +217,10 @@
       <window_info anchor="bottom" id="Unit Tests" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.32899868" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32899868" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -245,19 +263,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TP3/AfficheContenu.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding>
-            <marker date="1542207954020" expanded="true" signature="6:39" ph="..." />
-            <marker date="1542207954020" expanded="true" signature="54:267" ph="{...}" />
-            <marker date="1542207954020" expanded="true" signature="88:265" ph="{...}" />
-            <marker date="1542207954020" expanded="true" signature="150:259" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TP3/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
@@ -268,6 +273,19 @@
             <marker date="1542207954028" expanded="true" signature="106:349" ph="{...}" />
             <marker date="1542207954028" expanded="true" signature="159:343" ph="{...}" />
             <marker date="1542207954028" expanded="true" signature="254:308" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TP3/AfficheContenu.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <marker date="1542207954020" expanded="true" signature="6:39" ph="..." />
+            <marker date="1542207954020" expanded="true" signature="54:267" ph="{...}" />
+            <marker date="1542207954020" expanded="true" signature="88:265" ph="{...}" />
+            <marker date="1542207954020" expanded="true" signature="150:259" ph="{...}" />
           </folding>
         </state>
       </provider>
