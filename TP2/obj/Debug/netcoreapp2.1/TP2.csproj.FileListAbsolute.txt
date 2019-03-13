@@ -1,0 +1,22 @@
+/Users/maxencemottard/OneDrive - Ynov/Cours/2018-2019/C#/cours_.net/TP2/bin/Debug/netcoreapp2.1/TP2.deps.json
+/Users/maxencemottard/OneDrive - Ynov/Cours/2018-2019/C#/cours_.net/TP2/bin/Debug/netcoreapp2.1/TP2.runtimeconfig.json
+/Users/maxencemottard/OneDrive - Ynov/Cours/2018-2019/C#/cours_.net/TP2/bin/Debug/netcoreapp2.1/TP2.runtimeconfig.dev.json
+/Users/maxencemottard/OneDrive - Ynov/Cours/2018-2019/C#/cours_.net/TP2/bin/Debug/netcoreapp2.1/TP2.dll
+/Users/maxencemottard/OneDrive - Ynov/Cours/2018-2019/C#/cours_.net/TP2/bin/Debug/netcoreapp2.1/TP2.pdb
+/Users/maxencemottard/OneDrive - Ynov/Cours/2018-2019/C#/cours_.net/TP2/obj/Debug/netcoreapp2.1/TP2.csprojAssemblyReference.cache
+/Users/maxencemottard/OneDrive - Ynov/Cours/2018-2019/C#/cours_.net/TP2/obj/Debug/netcoreapp2.1/TP2.csproj.CoreCompileInputs.cache
+/Users/maxencemottard/OneDrive - Ynov/Cours/2018-2019/C#/cours_.net/TP2/obj/Debug/netcoreapp2.1/TP2.AssemblyInfoInputs.cache
+/Users/maxencemottard/OneDrive - Ynov/Cours/2018-2019/C#/cours_.net/TP2/obj/Debug/netcoreapp2.1/TP2.AssemblyInfo.cs
+/Users/maxencemottard/OneDrive - Ynov/Cours/2018-2019/C#/cours_.net/TP2/obj/Debug/netcoreapp2.1/TP2.dll
+/Users/maxencemottard/OneDrive - Ynov/Cours/2018-2019/C#/cours_.net/TP2/obj/Debug/netcoreapp2.1/TP2.pdb
+/Users/hugobordais/Documents/Cours/B2/Dev/C#/TP/TP2/bin/Debug/netcoreapp2.1/TP2.deps.json
+/Users/hugobordais/Documents/Cours/B2/Dev/C#/TP/TP2/bin/Debug/netcoreapp2.1/TP2.runtimeconfig.json
+/Users/hugobordais/Documents/Cours/B2/Dev/C#/TP/TP2/bin/Debug/netcoreapp2.1/TP2.runtimeconfig.dev.json
+/Users/hugobordais/Documents/Cours/B2/Dev/C#/TP/TP2/bin/Debug/netcoreapp2.1/TP2.dll
+/Users/hugobordais/Documents/Cours/B2/Dev/C#/TP/TP2/bin/Debug/netcoreapp2.1/TP2.pdb
+/Users/hugobordais/Documents/Cours/B2/Dev/C#/TP/TP2/obj/Debug/netcoreapp2.1/TP2.csprojAssemblyReference.cache
+/Users/hugobordais/Documents/Cours/B2/Dev/C#/TP/TP2/obj/Debug/netcoreapp2.1/TP2.csproj.CoreCompileInputs.cache
+/Users/hugobordais/Documents/Cours/B2/Dev/C#/TP/TP2/obj/Debug/netcoreapp2.1/TP2.AssemblyInfoInputs.cache
+/Users/hugobordais/Documents/Cours/B2/Dev/C#/TP/TP2/obj/Debug/netcoreapp2.1/TP2.AssemblyInfo.cs
+/Users/hugobordais/Documents/Cours/B2/Dev/C#/TP/TP2/obj/Debug/netcoreapp2.1/TP2.dll
+/Users/hugobordais/Documents/Cours/B2/Dev/C#/TP/TP2/obj/Debug/netcoreapp2.1/TP2.pdb

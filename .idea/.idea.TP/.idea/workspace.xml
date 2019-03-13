@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="619e0136-1b4f-4f61-9472-4ee8d16454ed" name="Default Changelist" comment="" />
+    <list default="true" id="619e0136-1b4f-4f61-9472-4ee8d16454ed" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TP/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TP/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TP/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TP/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TP/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TP/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP.sln" beforeDir="false" afterPath="$PROJECT_DIR$/TP.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP3/AfficheContenu.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP3/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TP3/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP3/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP3/TP3.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/TP3/TP3.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP3/bin/Debug/TP3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP3/bin/Debug/TP3.exe.mdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP3/obj/Debug/CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP3/obj/Debug/TP3.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP3/obj/Debug/TP3.csprojResolveAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP3/obj/Debug/TP3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP3/obj/Debug/TP3.exe.mdb" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,28 +29,37 @@
     <session id="-428182876">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="16" />
+          <entry key="project.open.time.0" value="5" />
+          <entry key="project.open.time.1" value="6" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="3" />
+          <entry key="cs" value="57" />
+          <entry key="csproj" value="1" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="3" />
+          <entry key="C#" value="57" />
+          <entry key="Csproj" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="330" />
+          <entry key="cs" value="2568" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="330" />
+          <entry key="C#" value="2568" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -41,33 +67,16 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TP3/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            <state relative-caret-position="391">
+              <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
               <folding>
-                <marker date="1542207954028" expanded="true" signature="6:62" ph="..." />
-                <marker date="1542207954028" expanded="true" signature="77:351" ph="{...}" />
-                <marker date="1542207954028" expanded="true" signature="106:349" ph="{...}" />
-                <marker date="1542207954028" expanded="true" signature="159:343" ph="{...}" />
-                <marker date="1542207954028" expanded="true" signature="254:308" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TP3/AfficheContenu.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-              <folding>
-                <marker date="1542207954020" expanded="true" signature="6:39" ph="..." />
-                <marker date="1542207954020" expanded="true" signature="54:267" ph="{...}" />
-                <marker date="1542207954020" expanded="true" signature="88:265" ph="{...}" />
-                <marker date="1542207954020" expanded="true" signature="150:259" ph="{...}" />
+                <marker date="1543240764854" expanded="false" signature="6:39" ph="..." />
+                <marker date="1543240764854" expanded="true" signature="74:325" ph="{...}" />
+                <marker date="1543240764854" expanded="true" signature="120:319" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -79,14 +88,26 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/TP3/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TP3/AfficheContenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Evalutation/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TP1/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TP3/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TP3/Exo3.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TP1/Exo1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TP3/Exo2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TP3/Exo1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TP3/ExtensionClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TP2/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Evalutation/Program.cs" />
         <option value="$PROJECT_DIR$/TP3/AfficheContenu.cs" />
+        <option value="$PROJECT_DIR$/TP3/Exo1.cs" />
+        <option value="$PROJECT_DIR$/TP1/Program.cs" />
+        <option value="$PROJECT_DIR$/TP2/Program.cs" />
+        <option value="$PROJECT_DIR$/TP3/Exo2.cs" />
+        <option value="$PROJECT_DIR$/TP3/Exo3.cs" />
         <option value="$PROJECT_DIR$/TP3/Program.cs" />
       </list>
     </option>
@@ -102,7 +123,9 @@
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -114,23 +137,6 @@
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="TP" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="TP" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="TP3" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="TP" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="TP3" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="References" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="TP" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="TP3" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Properties" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
@@ -144,6 +150,8 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TPFichierImage/TPFichierImage.csproj" />
+    <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -157,12 +165,62 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/TP3/bin/Debug/TP3.exe" />
+  <component name="RunManager" selected=".NET Project.TP3">
+    <configuration name="TP1" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/TP1/bin/Debug/netcoreapp2.1/TP1.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TP3/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TP1" />
       <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/TP1/TP1.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser url="http://localhost:5000" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TP2" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/TP2/bin/Debug/netcoreapp2.1/TP2.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TP2" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/TP2/TP2.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser url="http://localhost:5000" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TP3" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/TP3/bin/Debug/netcoreapp2.1/TP3.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TP3" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
@@ -170,12 +228,18 @@
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="Console" />
-      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser url="http://localhost:5000" />
       <method v="2">
         <option name="Build" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue=".NET Project.TP1" />
+      <item itemvalue=".NET Project.TP2" />
+      <item itemvalue=".NET Project.TP3" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -187,12 +251,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542205666703</updated>
-      <workItem from="1542205667945" duration="2147000" />
+      <workItem from="1542205667945" duration="5692000" />
+      <workItem from="1542633732234" duration="1115000" />
+      <workItem from="1542637120704" duration="32000" />
+      <workItem from="1542637192793" duration="56000" />
+      <workItem from="1542637770039" duration="3843000" />
+      <workItem from="1543220560141" duration="6108000" />
+      <workItem from="1543237843977" duration="577000" />
+      <workItem from="1543239180880" duration="512000" />
+      <workItem from="1543240724921" duration="223000" />
+      <workItem from="1543240976619" duration="45000" />
+      <workItem from="1543241208088" duration="228000" />
+      <workItem from="1543244044818" duration="39000" />
+      <workItem from="1544197000952" duration="39000" />
+      <workItem from="1544200219663" duration="470000" />
+      <workItem from="1544431910830" duration="23000" />
+      <workItem from="1544437939282" duration="10000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2147000" />
+    <option name="totallyTimeSpent" value="19012000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -207,35 +286,60 @@
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21888413" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18240343" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Build" weight="0.32899868" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32899868" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29648894" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39921975" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.29908973" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16094421" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.313394" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39921975" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.29908973" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -251,41 +355,87 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TP3/Properties/AssemblyInfo.cs">
+    <entry file="file://$PROJECT_DIR$/TP3/Properties/AssemblyInfo.cs" />
+    <entry file="file://$PROJECT_DIR$/Evalutation/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TP3/AfficheContenu.cs" />
+    <entry file="file://$PROJECT_DIR$/TP1/Exo1.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TP1/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TP2/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TP3/Exo2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="611">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FichierImage/TPFichierImage/TPFichierImage.csproj" />
+    <entry file="file://$PROJECT_DIR$/../FichierImage/TPFichierImage/GGBitmap.cs" />
+    <entry file="file://$PROJECT_DIR$/../FichierImage/TPFichierImageEnonce/FormatImage.txt" />
+    <entry file="file://$PROJECT_DIR$/../FichierImage/TPFichierImage/Program.cs" />
+    <entry file="file://$PROJECT_DIR$/TP3/Exo1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TP3/Exo3.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding>
+            <marker date="1543227835142" expanded="false" signature="6:39" ph="..." />
+            <marker date="1543227835142" expanded="true" signature="78:1027" ph="{...}" />
+            <marker date="1543227835142" expanded="true" signature="183:293" ph="{...}" />
+            <marker date="1543227835142" expanded="true" signature="349:647" ph="{...}" />
+            <marker date="1543227835142" expanded="true" signature="716:1021" ph="{...}" />
+            <marker date="1543227835142" expanded="true" signature="823:983" ph="{...}" />
+            <marker date="1543227835142" expanded="true" signature="891:966" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TP3/ExtensionClass.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
-            <marker date="1542205851883" expanded="false" signature="6:62" ph="..." />
-            <marker date="1542205851883" expanded="true" signature="64:251" ph="/* General Information about an assembly is controlled through the following ... */" />
-            <marker date="1542205851883" expanded="true" signature="544:754" ph="/* Setting ComVisible to false makes the types in this assembly not visible ... */" />
-            <marker date="1542205851883" expanded="true" signature="929:1256" ph="/* Version information for an assembly consists of the following four values: ... */" />
+            <marker date="1542605754000" expanded="false" signature="6:77" ph="..." />
+            <marker date="1542605754000" expanded="true" signature="126:576" ph="{...}" />
+            <marker date="1542605754000" expanded="true" signature="198:570" ph="{...}" />
+            <marker date="1542605754000" expanded="true" signature="298:479" ph="{...}" />
+            <marker date="1542605754000" expanded="true" signature="362:433" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TP3/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        <state relative-caret-position="391">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
           <folding>
-            <marker date="1542207954028" expanded="true" signature="6:62" ph="..." />
-            <marker date="1542207954028" expanded="true" signature="77:351" ph="{...}" />
-            <marker date="1542207954028" expanded="true" signature="106:349" ph="{...}" />
-            <marker date="1542207954028" expanded="true" signature="159:343" ph="{...}" />
-            <marker date="1542207954028" expanded="true" signature="254:308" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TP3/AfficheContenu.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding>
-            <marker date="1542207954020" expanded="true" signature="6:39" ph="..." />
-            <marker date="1542207954020" expanded="true" signature="54:267" ph="{...}" />
-            <marker date="1542207954020" expanded="true" signature="88:265" ph="{...}" />
-            <marker date="1542207954020" expanded="true" signature="150:259" ph="{...}" />
+            <marker date="1543240764854" expanded="false" signature="6:39" ph="..." />
+            <marker date="1543240764854" expanded="true" signature="74:325" ph="{...}" />
+            <marker date="1543240764854" expanded="true" signature="120:319" ph="{...}" />
           </folding>
         </state>
       </provider>

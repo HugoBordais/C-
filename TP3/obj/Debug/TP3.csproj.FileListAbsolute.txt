@@ -1,5 +1,0 @@
-/Users/hugobordais/Documents/Cours/B2/Dev/C#/TP/TP3/bin/Debug/TP3.exe
-/Users/hugobordais/Documents/Cours/B2/Dev/C#/TP/TP3/bin/Debug/TP3.exe.mdb
-/Users/hugobordais/Documents/Cours/B2/Dev/C#/TP/TP3/obj/Debug/TP3.csprojResolveAssemblyReference.cache
-/Users/hugobordais/Documents/Cours/B2/Dev/C#/TP/TP3/obj/Debug/TP3.exe
-/Users/hugobordais/Documents/Cours/B2/Dev/C#/TP/TP3/obj/Debug/TP3.exe.mdb

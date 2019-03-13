@@ -1,0 +1,11 @@
+/Users/maxencemottard/OneDrive - Ynov/Cours/2018-2019/C#/cours_.net/TP1/bin/Debug/netcoreapp2.1/TP1.deps.json
+/Users/maxencemottard/OneDrive - Ynov/Cours/2018-2019/C#/cours_.net/TP1/bin/Debug/netcoreapp2.1/TP1.runtimeconfig.json
+/Users/maxencemottard/OneDrive - Ynov/Cours/2018-2019/C#/cours_.net/TP1/bin/Debug/netcoreapp2.1/TP1.runtimeconfig.dev.json
+/Users/maxencemottard/OneDrive - Ynov/Cours/2018-2019/C#/cours_.net/TP1/bin/Debug/netcoreapp2.1/TP1.dll
+/Users/maxencemottard/OneDrive - Ynov/Cours/2018-2019/C#/cours_.net/TP1/bin/Debug/netcoreapp2.1/TP1.pdb
+/Users/maxencemottard/OneDrive - Ynov/Cours/2018-2019/C#/cours_.net/TP1/obj/Debug/netcoreapp2.1/TP1.csprojAssemblyReference.cache
+/Users/maxencemottard/OneDrive - Ynov/Cours/2018-2019/C#/cours_.net/TP1/obj/Debug/netcoreapp2.1/TP1.csproj.CoreCompileInputs.cache
+/Users/maxencemottard/OneDrive - Ynov/Cours/2018-2019/C#/cours_.net/TP1/obj/Debug/netcoreapp2.1/TP1.AssemblyInfoInputs.cache
+/Users/maxencemottard/OneDrive - Ynov/Cours/2018-2019/C#/cours_.net/TP1/obj/Debug/netcoreapp2.1/TP1.AssemblyInfo.cs
+/Users/maxencemottard/OneDrive - Ynov/Cours/2018-2019/C#/cours_.net/TP1/obj/Debug/netcoreapp2.1/TP1.dll
+/Users/maxencemottard/OneDrive - Ynov/Cours/2018-2019/C#/cours_.net/TP1/obj/Debug/netcoreapp2.1/TP1.pdb

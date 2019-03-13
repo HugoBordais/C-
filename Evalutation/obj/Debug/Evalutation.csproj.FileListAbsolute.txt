@@ -1,0 +1,5 @@
+/Users/hugobordais/Documents/Cours/B2/Dev/C#/TP/Evalutation/bin/Debug/Evalutation.exe
+/Users/hugobordais/Documents/Cours/B2/Dev/C#/TP/Evalutation/bin/Debug/Evalutation.exe.mdb
+/Users/hugobordais/Documents/Cours/B2/Dev/C#/TP/Evalutation/obj/Debug/Evalutation.csprojResolveAssemblyReference.cache
+/Users/hugobordais/Documents/Cours/B2/Dev/C#/TP/Evalutation/obj/Debug/Evalutation.exe
+/Users/hugobordais/Documents/Cours/B2/Dev/C#/TP/Evalutation/obj/Debug/Evalutation.exe.mdb

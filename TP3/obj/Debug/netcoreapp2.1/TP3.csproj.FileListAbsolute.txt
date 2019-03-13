@@ -1,0 +1,22 @@
+/Users/maxencemottard/OneDrive - Ynov/Cours/2018-2019/C#/cours_.net/TP3/bin/Debug/netcoreapp2.1/TP3.deps.json
+/Users/maxencemottard/OneDrive - Ynov/Cours/2018-2019/C#/cours_.net/TP3/bin/Debug/netcoreapp2.1/TP3.runtimeconfig.json
+/Users/maxencemottard/OneDrive - Ynov/Cours/2018-2019/C#/cours_.net/TP3/bin/Debug/netcoreapp2.1/TP3.runtimeconfig.dev.json
+/Users/maxencemottard/OneDrive - Ynov/Cours/2018-2019/C#/cours_.net/TP3/bin/Debug/netcoreapp2.1/TP3.dll
+/Users/maxencemottard/OneDrive - Ynov/Cours/2018-2019/C#/cours_.net/TP3/bin/Debug/netcoreapp2.1/TP3.pdb
+/Users/maxencemottard/OneDrive - Ynov/Cours/2018-2019/C#/cours_.net/TP3/obj/Debug/netcoreapp2.1/TP3.csprojAssemblyReference.cache
+/Users/maxencemottard/OneDrive - Ynov/Cours/2018-2019/C#/cours_.net/TP3/obj/Debug/netcoreapp2.1/TP3.csproj.CoreCompileInputs.cache
+/Users/maxencemottard/OneDrive - Ynov/Cours/2018-2019/C#/cours_.net/TP3/obj/Debug/netcoreapp2.1/TP3.AssemblyInfoInputs.cache
+/Users/maxencemottard/OneDrive - Ynov/Cours/2018-2019/C#/cours_.net/TP3/obj/Debug/netcoreapp2.1/TP3.AssemblyInfo.cs
+/Users/maxencemottard/OneDrive - Ynov/Cours/2018-2019/C#/cours_.net/TP3/obj/Debug/netcoreapp2.1/TP3.dll
+/Users/maxencemottard/OneDrive - Ynov/Cours/2018-2019/C#/cours_.net/TP3/obj/Debug/netcoreapp2.1/TP3.pdb
+/Users/hugobordais/Documents/Cours/B2/Dev/C#/TP/TP3/bin/Debug/netcoreapp2.1/TP3.deps.json
+/Users/hugobordais/Documents/Cours/B2/Dev/C#/TP/TP3/bin/Debug/netcoreapp2.1/TP3.runtimeconfig.json
+/Users/hugobordais/Documents/Cours/B2/Dev/C#/TP/TP3/bin/Debug/netcoreapp2.1/TP3.runtimeconfig.dev.json
+/Users/hugobordais/Documents/Cours/B2/Dev/C#/TP/TP3/bin/Debug/netcoreapp2.1/TP3.dll
+/Users/hugobordais/Documents/Cours/B2/Dev/C#/TP/TP3/bin/Debug/netcoreapp2.1/TP3.pdb
+/Users/hugobordais/Documents/Cours/B2/Dev/C#/TP/TP3/obj/Debug/netcoreapp2.1/TP3.csprojAssemblyReference.cache
+/Users/hugobordais/Documents/Cours/B2/Dev/C#/TP/TP3/obj/Debug/netcoreapp2.1/TP3.csproj.CoreCompileInputs.cache
+/Users/hugobordais/Documents/Cours/B2/Dev/C#/TP/TP3/obj/Debug/netcoreapp2.1/TP3.AssemblyInfoInputs.cache
+/Users/hugobordais/Documents/Cours/B2/Dev/C#/TP/TP3/obj/Debug/netcoreapp2.1/TP3.AssemblyInfo.cs
+/Users/hugobordais/Documents/Cours/B2/Dev/C#/TP/TP3/obj/Debug/netcoreapp2.1/TP3.dll
+/Users/hugobordais/Documents/Cours/B2/Dev/C#/TP/TP3/obj/Debug/netcoreapp2.1/TP3.pdb

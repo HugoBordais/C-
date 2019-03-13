@@ -1,18 +1,21 @@
-﻿using System.Collections;
-using System.Collections.Concurrent;
+﻿using System;
+using System.Collections;
 
 namespace TP3
 {
-    internal class Program
+    class Program
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
-            ArrayList l = new ArrayList();
-            for (int i = 0; i < 101; i++)
-            {
-                l.Add(i);
-            }
-            l.Contenu();
+
+            /*    EXO 1    */
+//            new Exo1();
+
+            /*    EXO 2    */
+//            new Exo2();
+           
+           /*    EXO 3    */
+            new Exo3();
         }
     }
 }
