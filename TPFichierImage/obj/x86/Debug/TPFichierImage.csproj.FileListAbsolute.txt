@@ -1,0 +1,18 @@
+C:/Documents and Settings/Ael/Mes documents/DOTNET/ApprendreDOTNET/TPFichierImage/bin/Debug/TPFichierImage.exe
+C:/Documents and Settings/Ael/Mes documents/DOTNET/ApprendreDOTNET/TPFichierImage/bin/Debug/TPFichierImage.pdb
+C:/Documents and Settings/Ael/Mes documents/DOTNET/ApprendreDOTNET/TPFichierImage/obj/x86/Debug/ResolveAssemblyReference.cache
+C:/Documents and Settings/Ael/Mes documents/DOTNET/ApprendreDOTNET/TPFichierImage/obj/x86/Debug/TPFichierImage.Form1.resources
+C:/Documents and Settings/Ael/Mes documents/DOTNET/ApprendreDOTNET/TPFichierImage/obj/x86/Debug/TPFichierImage.Properties.Resources.resources
+C:/Documents and Settings/Ael/Mes documents/DOTNET/ApprendreDOTNET/TPFichierImage/obj/x86/Debug/GenerateResource.read.1.tlog
+C:/Documents and Settings/Ael/Mes documents/DOTNET/ApprendreDOTNET/TPFichierImage/obj/x86/Debug/GenerateResource.write.1.tlog
+C:/Documents and Settings/Ael/Mes documents/DOTNET/ApprendreDOTNET/TPFichierImage/obj/x86/Debug/TPFichierImage.exe
+C:/Documents and Settings/Ael/Mes documents/DOTNET/ApprendreDOTNET/TPFichierImage/obj/x86/Debug/TPFichierImage.pdb
+/Users/hugobordais/Documents/Cours/B2/Dev/C#/TPFichierImage/bin/Debug/TPFichierImage.exe
+/Users/hugobordais/Documents/Cours/B2/Dev/C#/TPFichierImage/bin/Debug/TPFichierImage.pdb
+/Users/hugobordais/Documents/Cours/B2/Dev/C#/TPFichierImage/obj/x86/Debug/TPFichierImage.csprojAssemblyReference.cache
+/Users/hugobordais/Documents/Cours/B2/Dev/C#/TPFichierImage/obj/x86/Debug/TPFichierImage.Form1.resources
+/Users/hugobordais/Documents/Cours/B2/Dev/C#/TPFichierImage/obj/x86/Debug/TPFichierImage.Properties.Resources.resources
+/Users/hugobordais/Documents/Cours/B2/Dev/C#/TPFichierImage/obj/x86/Debug/TPFichierImage.csproj.GenerateResource.cache
+/Users/hugobordais/Documents/Cours/B2/Dev/C#/TPFichierImage/obj/x86/Debug/TPFichierImage.csproj.CoreCompileInputs.cache
+/Users/hugobordais/Documents/Cours/B2/Dev/C#/TPFichierImage/obj/x86/Debug/TPFichierImage.exe
+/Users/hugobordais/Documents/Cours/B2/Dev/C#/TPFichierImage/obj/x86/Debug/TPFichierImage.pdb

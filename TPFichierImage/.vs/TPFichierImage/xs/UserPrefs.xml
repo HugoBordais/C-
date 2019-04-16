@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{309F4EB0-1C1C-4C7C-B235-C621A6245823}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GGBitmap.cs">
+    <Files>
+      <File FileName="GGBitmap.cs" Line="64" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TPFichierImage PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

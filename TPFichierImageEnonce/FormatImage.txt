@@ -1,0 +1,11 @@
+            // Format fichier :
+            /*
+             * largeur en pixels (UInt16)
+             * hauteur en pixels (UInt16)
+             * chaîne de contrôle (2 octets) : GG
+             * taille en octets du commentaire (Int32)
+             * commentaire (taille variable)
+             * Données de l'image : chaque pixel a sa valeur de couleur codée sur un Int32
+              * chaîne de contrôle (2 octets) : AK
+             * 
+            */

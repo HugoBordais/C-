@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPFichierImage", "TPFichierImage.csproj", "{309F4EB0-1C1C-4C7C-B235-C621A6245823}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{309F4EB0-1C1C-4C7C-B235-C621A6245823}.Debug|x86.ActiveCfg = Debug|x86
+		{309F4EB0-1C1C-4C7C-B235-C621A6245823}.Debug|x86.Build.0 = Debug|x86
+		{309F4EB0-1C1C-4C7C-B235-C621A6245823}.Release|x86.ActiveCfg = Release|x86
+		{309F4EB0-1C1C-4C7C-B235-C621A6245823}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
